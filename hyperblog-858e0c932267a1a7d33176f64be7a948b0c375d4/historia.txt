@@ -1,0 +1,12 @@
+Esta es la historia de Mauricio Aliendre
+
+Mauricio Aliendre tiene 24 años y nació en Bolivia
+
+Mañana nos enfocaremos en su vida laboral
+
+<<<<<<< HEAD
+C'mon  man! All the situation will be better
+=======
+C'mon  man! Let's Go
+>>>>>>> 9554927 (I modify some extra lines)
+
